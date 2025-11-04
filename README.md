@@ -1,11 +1,11 @@
-## 🎬 BrightTV Case Study — Viewership Analytics
+# 🎬 BrightTV Case Study — Viewership Analytics
 
-# 📖 Project Overview
+## 📖 Project Overview
 
 The BrightTV Case Study focuses on analyzing user and viewership data from BrightTV, a South African entertainment platform. The goal is to uncover trends, patterns, and factors influencing content consumption to help the company expand its subscription base and improve user engagement.
 This project uses data analytics and SQL (Snowflake) to transform raw viewership data into actionable business insights, guiding strategic decisions on content programming, marketing, and audience retention.
 
-# 🎯 Objectives
+## 🎯 Objectives
 
 Analyze user and usage trends across demographics and regions.
 
@@ -17,9 +17,9 @@ Evaluate the most popular channels and content types.
 
 Recommend strategies to increase user growth and content reach.
 
-## 🧩 Dataset Description
+# 🧩 Dataset Description
 
-# 1️⃣ User Profiles
+## 1️⃣ User Profiles
 
 Contains demographic and social details of BrightTV users.
 
@@ -39,7 +39,7 @@ Province	- Location within South Africa
 
 Social Media Handle	- User’s social tag
 
-# 2️⃣ Viewership
+## 2️⃣ Viewership
 
 Captures each viewing session or activity.
 
@@ -53,7 +53,7 @@ RecordDate2	- UTC timestamp of the viewing session
 
 Duration 2	- Length of the session (hh:mm:ss)
 
-# ⚙️ Tools & Technologies
+## ⚙️ Tools & Technologies
 
 SQL Platform: Snowflake
 
@@ -65,7 +65,7 @@ File Type: Excel (csv)
 
 Timezone Conversion: UTC → Africa/Johannesburg
 
-# 🧮 Key Analysis Performed
+## 🧮 Key Analysis Performed
 
 Conversion of UTC timestamps to South African time using CONVERT_TIMEZONE.
 
@@ -81,7 +81,7 @@ Detection of low-consumption days and hours.
 
 Insights on viewing behaviour patterns and content preferences.
 
-# 📊 Key Findings
+## 📊 Key Findings
 
 Male viewers (80%) dominate overall engagement.
 
@@ -95,7 +95,7 @@ Sports, entertainment, and music channels are the most popular.
 
 Average viewing session is 4–6 minutes, suggesting short-form content preference.
 
-# 💡 Recommendations
+## 💡 Recommendations
 
 Introduce female-oriented and family-friendly content to balance demographics.
 
@@ -107,7 +107,7 @@ Strengthen evening programming and weekend content to capture peak viewership.
 
 Implement personalized recommendations to improve engagement and retention.
 
-# 📈 Business Impact
+## 📈 Business Impact
 
 The findings provide BrightTV with clear, data-backed insights into user preferences and behaviour.
 
@@ -121,12 +121,12 @@ Enhance audience satisfaction
 
 Achieve sustainable user growth
 
-## 👩‍💻 Author
+# 👩‍💻 Author
 
-# Tshifhiwa Tshikosi
+## Tshifhiwa Tshikosi
 
-Data Analyst | Business Intelligence | SQL Developer
+## Data Analyst | Business Intelligence | SQL Developer
 
-# 📧 Email: tshikositshifhiwa4@gmail.com
+## 📧 Email: tshikositshifhiwa4@gmail.com
 
-# 📍 Location: South Africa, Pretoria
+## 📍 Location: South Africa, Pretoria
