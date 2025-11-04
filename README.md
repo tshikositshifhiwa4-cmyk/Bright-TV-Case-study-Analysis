@@ -123,10 +123,10 @@ Achieve sustainable user growth
 
 # 👩‍💻 Author
 
-## Tshifhiwa Tshikosi
+ Tshifhiwa Tshikosi
 
-## Data Analyst | Business Intelligence | SQL Developer
+ Data Analyst | Business Intelligence | SQL Developer
 
-## 📧 Email: tshikositshifhiwa4@gmail.com
+ 📧 Email: tshikositshifhiwa4@gmail.com
 
-## 📍 Location: South Africa, Pretoria
+ 📍 Location: South Africa, Pretoria
